@@ -1,4 +1,17 @@
-## Welcome to GitHub Pages
+# Aahan's First CS193 Homework
+
+Some of my favorite things about CS193:
+- How this course teaches some of the most important tools that are necessary as a CS student but not usually taught at school/college.
+- Our TAs' sense of humor (Bees? Bees!)
+- Very detailed instruction which is easy to understand
+- Classes are generally fun and chill
+
+
+
+
+
+
+## Guide - Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
